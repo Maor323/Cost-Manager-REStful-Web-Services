@@ -1,9 +1,4 @@
-/*
 
-Nir Kedem 209080928
-Maor Hamay 307966978
-
-*/
 console.log('start about file');
 const express = require('express');
 const router = express.Router();
