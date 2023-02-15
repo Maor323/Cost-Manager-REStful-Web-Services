@@ -1,9 +1,4 @@
-/*
 
-Nir Kedem 209080928
-Maor Hamay 307966978
-
-*/
 const express = require('express');
 const { Cost } = require('../models/data-base');
 const url = require('url');
