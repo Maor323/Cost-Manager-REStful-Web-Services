@@ -1,10 +1,3 @@
-/*
-
-Nir Kedem 209080928
-Maor Hamay 307966978
-
-*/
-
 console.log('start file database');
 const mongoose = require('mongoose');
 
