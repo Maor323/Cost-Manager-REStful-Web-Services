@@ -1,9 +1,3 @@
-/*
-
-Nir Kedem 209080928
-Maor Hamay 307966978
-
-*/
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
