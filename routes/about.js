@@ -10,15 +10,15 @@ router.get('/', function(request,response) {
     const developers = [
         {
             firstname: 'Nir' ,
-            lastname:'Kedem' ,
-            id:'209080928' ,
-            email:'nir602@gmail.com'
+            lastname:'****' ,
+            id:'**********' ,
+            email:'****@gmail.com'
         },
         {
             firstname:'Maor' ,
-            lastname:'Hamay' ,
-            id:'307966978' ,
-            email: 'maorhy323@gmail.com'
+            lastname:'****' ,
+            id:'**********' ,
+            email: '*******@gmail.com'
         }
     ];
 
