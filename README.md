@@ -8,8 +8,18 @@ The final project includes developing specific parts of REStful Web Services tha
 
 We used in MongoDB Atlas for our database service.
 
-The costs categories are: food, health, housing, sport, education, transportation, and other
+[use this link](https://cost-manager-restful-web-services-niro646.onrender.com) to check it out Yourself.
 
+<h2>🛠️ Languages I used:</h2>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="70" height="70"/>&nbsp;   
+</div>
+
+<h3>Screenshots:</h3>
 
 ![1](https://user-images.githubusercontent.com/96150039/219025177-2c40fb19-6370-4c61-8961-8ea2da490326.png)
 
